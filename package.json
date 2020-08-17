@@ -1,6 +1,6 @@
 {
 	"name": "@volkovasystem/test-run-clean-script",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "Test repository for run clean script module.",
 	"main": "test-run-clean-script.js",
 	"scripts": {
@@ -34,6 +34,6 @@
 	},
 	"homepage": "https://github.com/volkovasystem/test-run-clean-script#readme",
 	"dependencies": {
-		"test-npm-module": "npm:@volkovasystem/test-npm-module@0.0.0"
+		"test-npm-module": "npm:@volkovasystem/test-npm-module@0.0.1"
 	}
 }
